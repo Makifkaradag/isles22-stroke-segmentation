@@ -1,0 +1,6 @@
+# Exclude assets and 3D HTML visualizations from language statistics
+assets/* linguist-vendored=true
+*.html linguist-detectable=false
+
+# Treat Jupyter Notebooks as Python
+*.ipynb linguist-language=Python
