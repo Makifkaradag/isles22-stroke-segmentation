@@ -1,0 +1,11 @@
+nnunetv2
+nibabel
+SimpleITK
+numpy
+pandas
+matplotlib
+scipy
+imageio
+medpy
+scikit-image
+plotly

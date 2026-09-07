@@ -1,0 +1,25 @@
+# Pre-trained models and weights (hosted on Google Drive)
+models/
+*.pth
+*.pt
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
